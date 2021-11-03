@@ -1,0 +1,12 @@
+.centrador {
+    display: block; margin-left: auto; margin-right: auto;
+}
+h1, h2 {
+background-color: rgba(196, 196, 196, 1); color: rgba(0, 86, 119, 1);
+}
+p {
+background-color: rgba(0, 86, 119, 1); color:rgba(255, 255, 255, 1); padding: 0%; margin: 0%; text-align: center; height: 2em; font-size: 20px;
+}
+.der {
+    margin-right: auto;
+}
