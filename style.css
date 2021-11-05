@@ -1,12 +1,40 @@
 .centrador {
-    display: block; margin-left: auto; margin-right: auto;
+    display: block; 
+    margin-left: auto; 
+    margin-right: auto;
+    border-radius: 50%;
 }
+
 h1, h2 {
-background-color: rgba(196, 196, 196, 1); color: rgba(0, 86, 119, 1);
+background-color: rgba(196, 196, 196, 1); 
+color: rgba(0, 86, 119, 1);
+font-family: 'Istok Web', sans-serif;
 }
+
 p {
-background-color: rgba(0, 86, 119, 1); color:rgba(255, 255, 255, 1); padding: 0%; margin: 0%; text-align: center; height: 2em; font-size: 20px;
+background-color: rgba(0, 86, 119, 1);
+color:rgba(255, 255, 255, 1); 
+padding: 0%; 
+margin: 0%; 
+text-align: center; 
+height: 2em; 
+font-size: 20px;
+font-family: 'Istok Web', sans-serif;
 }
+
 .der {
     margin-right: auto;
+}
+#banner {
+    background-image: url('./img/banner2.jpg')
+}
+.fa-cog {
+    color: #2E86C1;
+}
+.boton-enlace {
+color: #2874A6;
+background-color: #D4E6F1;
+border: none;
+border-radius: 10%;
+cursor: pointer;
 }
